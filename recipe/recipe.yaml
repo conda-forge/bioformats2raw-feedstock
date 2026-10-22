@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.12.1"
+  version: "0.13.0"
 
 package:
   name: bioformats2raw
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/glencoesoftware/bioformats2raw/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 3447cd42ce53bd761e7f273a0abc26bfbc9c954e7d5243cb7f01debeadbebecd
+  sha256: e0e58c499af7699fc83652ba2a576a057b06f877147df7962ba49f56799dc384
   patches:
     - 0001-conda-build.patch
 
