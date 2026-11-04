@@ -11,7 +11,7 @@ Summary: Bio-Formats image file format to OME-NGFF format converter
 
 Development: https://github.com/glencoesoftware/bioformats2raw
 
-Documentation: https://github.com/glencoesoftware/bioformats2raw/blob/v0.13.0/README.md
+Documentation: https://github.com/glencoesoftware/bioformats2raw/blob/v0.14.0/README.md
 
 bioformats2raw converts image file formats supported by Bio-Formats into
 a Zarr structure compatible with the OME-NGFF specification.
